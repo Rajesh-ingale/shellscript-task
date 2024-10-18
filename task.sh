@@ -37,5 +37,5 @@ elif (( age >= 13 && age <= 19 )); then
 elif (( age > 60 )); then
     echo "Oldage"
 else
-    echo "Adult"
+    echo "adualt"
 fi
